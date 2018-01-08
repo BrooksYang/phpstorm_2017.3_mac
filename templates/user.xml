@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name=":lang" value="@lang('$LANG$')" description="@lang" toReformat="false" toShortenFQNames="true">
+    <variable name="LANG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

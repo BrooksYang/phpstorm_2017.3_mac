@@ -2,16 +2,38 @@
   <template name="rimport-component" value="import React, { Component } from 'react';&#10;import {$NAME$} from 'react-native';&#10;" description="Import React" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="rimport" value="import { $libName$ } from '$libName$';" description="Import React Component" toReformat="false" toShortenFQNames="true">
     <variable name="libName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="rexport" value="export default class $NAME$ extends Component {&#10;    $END$&#10;}&#10;" description="export default class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="render" value="render() {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="return" value="return (&#10;    $END$&#10;);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="view" value="&lt;View$NAME$&gt;&#10;    $END$&#10;&lt;/View&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="text" value="&lt;Text$NAME$&gt;&#10;    $END$&#10;&lt;/Text&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />

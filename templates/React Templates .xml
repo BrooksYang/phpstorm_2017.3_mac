@@ -1,5 +1,5 @@
 <templateSet group="React Templates ">
-  <template name="rimport-component" value="import React, { Component } from 'react';&#10;import {$NAME$} from 'react-native';&#10;" description="Import React" toReformat="false" toShortenFQNames="true">
+  <template name="rimportComponent" value="import React, { Component } from 'react';&#10;import {$NAME$} from 'react-native';&#10;" description="Import React" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />

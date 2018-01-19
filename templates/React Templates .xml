@@ -18,17 +18,17 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="render" value="render() {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="render" value="render() {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="return" value="return (&#10;    $END$&#10;);" toReformat="false" toShortenFQNames="true">
+  <template name="return" value="return (&#10;    $END$&#10;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="view" value="&lt;View$NAME$&gt;&#10;    $END$&#10;&lt;/View&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="view" value="&lt;View$NAME$&gt;&#10;    $END$&#10;&lt;/View&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />

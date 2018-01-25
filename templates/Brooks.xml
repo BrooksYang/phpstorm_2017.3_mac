@@ -292,7 +292,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="trycatch" value="try {&#10;    $TRY$&#10;} catch ($EXCEPTION$) {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="trycatch" value="try {&#10;    $TRY$&#10;} catch ($EXCEPTION$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

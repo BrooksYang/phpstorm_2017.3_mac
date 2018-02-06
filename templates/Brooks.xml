@@ -299,4 +299,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="func:use" value="function ($FUN$) use ($USE$) {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="FUN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

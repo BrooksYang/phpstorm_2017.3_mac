@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CronSchedule" type="PLAIN_TEXT" />
+      <mapping pattern="Schedule" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

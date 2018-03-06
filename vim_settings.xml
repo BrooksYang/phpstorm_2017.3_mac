@@ -1,0 +1,71 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520330643772">
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="80" />
+        <mark key="." line="57" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="158" column="78" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="112" column="6" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="123" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="124" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="127" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="133" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="145" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="148" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="154" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="160" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="166" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="178" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="48" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="60" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="63" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="50" column="20" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>124</text>
+      </register>
+      <register name="/" type="4">
+        <text>return</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>return</last-search>
+      <last-offset />
+      <last-pattern>return</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>test</entry>
+        <entry>return</entry>
+      </history-search>
+      <history-cmd>
+        <entry>12</entry>
+        <entry>111</entry>
+        <entry>124</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

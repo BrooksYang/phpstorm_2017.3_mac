@@ -3,11 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/package.json" timestamp="1520338609380" />
+      <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520339089551">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="5" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520330643772">
         <mark key="'" line="50" column="20" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="80" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/password.js" timestamp="1520339279453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -27,43 +47,84 @@
       <jump line="60" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="63" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="50" column="20" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
+      <jump line="24" column="20" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="23" column="4" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="12" column="4" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="25" column="5" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="28" column="2" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="1" column="3" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="4" column="13" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="8" column="2" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="5" column="4" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="38" column="0" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="13" column="16" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
+      <register name="1" type="8">
+        <text encoding="base64">InNjcmlwdHMiOiB7CiAgInN0YXJ0IjogIm5vZGUgbm9kZV8KICAidGVzdCI6ICJqZXN0IiwKICAiYXBrIjogImNkIGFuZHJvaWQgJgp9LAoiZGVwZW5kZW5jaWVzIjogewogICJheGlvcyI6ICJeMC4xNy4xIiwKICAiYmx1ZWJpcmQiOiAiXjMuNS4xIgogICJidWZmZXIiOiAiXjUuMS4wIiwKICAiY3J5cHRvLWpzIjogIl4zLjEuOQogICJldmVudHMiOiAiXjIuMC4wIiwKICAicmVhY3QiOiAiMTYuMi4wIiwKICAicmVhY3QtbmF0aXZlIjogIjAuNQ==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJldmVudHMiOiAiXjIuMC4wIiwKICAgICJyZWFjdCI6ICIxNi4yLjAiLAogICAgInJlYWN0LW5hdGl2ZSI6ICIwLjUyLjIiLAogICAgInJlYWN0LW5hdGl2ZS1odG1sdmlldyI6ICJeMC4xMi4xIiwKICAgICJyZWFjdC1uYXRpdmUtaW1hZ2Utem9vbS12aWV3ZXIiOiAiXjIuMC4yMCIsCiAgICAicmVhY3QtbmF0aXZlLXN3aXBlLWxpc3QtdmlldyI6ICJeMS4wLjYiLAogICAgInJlYWN0LW5hdGl2ZS1zeWFuLWltYWdlLXBpY2tlciI6ICJeMC4xLjAiLAogICAgInJlYWN0LW5hdGl2ZS10b2FzdC1uYXRpdmUiOiAiXjEuMi4xIiwKICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMyIsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJldmVudHMiOiAiXjIuMC4wIiwKICAgICJyZWFjdCI6ICIxNi4yLjAiLAogICAgInJlYWN0LW5hdGl2ZSI6ICIwLjUyLjIiLAogICAgInJlYWN0LW5hdGl2ZS1odG1sdmlldyI6ICJeMC4xMi4xIiwKICAgICJyZWFjdC1uYXRpdmUtaW1hZ2Utem9vbS12aWV3ZXIiOiAiXjIuMC4yMCIsCiAgICAicmVhY3QtbmF0aXZlLXN3aXBlLWxpc3QtdmlldyI6ICJeMS4wLjYiLAogICAgInJlYWN0LW5hdGl2ZS1zeWFuLWltYWdlLXBpY2tlciI6ICJeMC4xLjAiLAogICAgInJlYWN0LW5hdGl2ZS10b2FzdC1uYXRpdmUiOiAiXjEuMi4xIiwKICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMyIsCiAgICAicmVhY3QtcmVkdXgiOiAiXjUuMC42IiwKICAgICJyZWR1eCI6ICJeMy43LjIiLAogICAgInR3aWxpby1jaGF0IjogIl4yLjEuMCIsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>124</text>
+        <text>25</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>test</entry>
         <entry>return</entry>
+        <entry>rct</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDx0d2lsaW9cPg==</entry>
+        <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
         <entry>111</entry>
         <entry>124</entry>
+        <entry>144</entry>
+        <entry>2</entry>
+        <entry>6</entry>
+        <entry>25</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>

@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1520343672798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520344586240">
+        <mark key="'" line="271" column="14" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="35" />
+        <mark key="m" line="243" column="22" />
+        <mark key="^" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+      </file>
       <file name="/package.json" timestamp="1520338609380" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520339089551">
         <mark key="'" line="13" column="16" />
@@ -11,11 +22,12 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520330643772">
+      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520343551255">
         <mark key="'" line="50" column="20" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="80" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
         <mark key="[" line="11" column="18" />
@@ -59,40 +71,63 @@
       <jump line="5" column="4" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
       <jump line="13" column="16" filename="$USER_HOME$/Code/jntz/jntz-app/package.json" />
+      <jump line="90" column="20" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="88" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="38" column="24" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="35" column="39" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="333" column="18" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="320" column="22" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="294" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="271" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
-      </register>
-      <register name="1" type="8">
-        <text encoding="base64">InNjcmlwdHMiOiB7CiAgInN0YXJ0IjogIm5vZGUgbm9kZV8KICAidGVzdCI6ICJqZXN0IiwKICAiYXBrIjogImNkIGFuZHJvaWQgJgp9LAoiZGVwZW5kZW5jaWVzIjogewogICJheGlvcyI6ICJeMC4xNy4xIiwKICAiYmx1ZWJpcmQiOiAiXjMuNS4xIgogICJidWZmZXIiOiAiXjUuMS4wIiwKICAiY3J5cHRvLWpzIjogIl4zLjEuOQogICJldmVudHMiOiAiXjIuMC4wIiwKICAicmVhY3QiOiAiMTYuMi4wIiwKICAicmVhY3QtbmF0aXZlIjogIjAuNQ==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJldmVudHMiOiAiXjIuMC4wIiwKICAgICJyZWFjdCI6ICIxNi4yLjAiLAogICAgInJlYWN0LW5hdGl2ZSI6ICIwLjUyLjIiLAogICAgInJlYWN0LW5hdGl2ZS1odG1sdmlldyI6ICJeMC4xMi4xIiwKICAgICJyZWFjdC1uYXRpdmUtaW1hZ2Utem9vbS12aWV3ZXIiOiAiXjIuMC4yMCIsCiAgICAicmVhY3QtbmF0aXZlLXN3aXBlLWxpc3QtdmlldyI6ICJeMS4wLjYiLAogICAgInJlYWN0LW5hdGl2ZS1zeWFuLWltYWdlLXBpY2tlciI6ICJeMC4xLjAiLAogICAgInJlYWN0LW5hdGl2ZS10b2FzdC1uYXRpdmUiOiAiXjEuMi4xIiwKICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMyIsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJldmVudHMiOiAiXjIuMC4wIiwKICAgICJyZWFjdCI6ICIxNi4yLjAiLAogICAgInJlYWN0LW5hdGl2ZSI6ICIwLjUyLjIiLAogICAgInJlYWN0LW5hdGl2ZS1odG1sdmlldyI6ICJeMC4xMi4xIiwKICAgICJyZWFjdC1uYXRpdmUtaW1hZ2Utem9vbS12aWV3ZXIiOiAiXjIuMC4yMCIsCiAgICAicmVhY3QtbmF0aXZlLXN3aXBlLWxpc3QtdmlldyI6ICJeMS4wLjYiLAogICAgInJlYWN0LW5hdGl2ZS1zeWFuLWltYWdlLXBpY2tlciI6ICJeMC4xLjAiLAogICAgInJlYWN0LW5hdGl2ZS10b2FzdC1uYXRpdmUiOiAiXjEuMi4xIiwKICAgICJyZWFjdC1uYXZpZ2F0aW9uIjogIl4xLjAuMyIsCiAgICAicmVhY3QtcmVkdXgiOiAiXjUuMC42IiwKICAgICJyZWR1eCI6ICJeMy43LjIiLAogICAgInR3aWxpby1jaGF0IjogIl4yLjEuMCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSAkdGhpcy0+Y2xpZW50LT5jcmVhdGVVc2VyKCR0aGlzLT5pZGVudGl0eSwgJHRoaXMtPnVzZXJuYW1lKTsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>25</text>
+        <text encoding="base64">cmV0dXJuICR0aGlzLT5qc29uUmVzcG9uc2UoW10sICfkv67mlLnmiJDlip8nKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">cmV0dXJuICR0aGlzLT5qc29uUmVzcG9uc2UoW10sICfkv67mlLnmiJDlip8nKTs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text encoding="base64">XDx3aGVyZVw+</text>
+      </register>
+      <register name="0" type="4">
+        <text>geAvatarUrl</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT51cGRhdGUoWwogICAgICAgICAgICAgICAgJ2F2YXRhcl91cmwnID0+ICRhdmF0YXJfdXJsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd1c2VyX2lkJywgJz0nLCAkaW5mby0+aWQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkKICAgICAgICAgICAgLT53aGVyZSgnc3RhdHVzJywgT3JkZXI6OlNVQ0NFRUQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkKICAgICAgICAgICAgLT53aGVyZSgnc3RhdHVzJywgT3JkZXI6OlNVQ0NFRUQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR1c2VyLT5pZCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8g6I635Y+W6aG555uu57uf6K6hCiAgICAgICAgJG9yZGVycyA9IE9yZGVyOjp3aXRoKCd3aXRoZHJhdycpCiAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJfaWQnLCAkdXNlci0+aWQpCiAgICAgICAgICAgIC0+d2hlcmUoJ3N0YXR1cycsIE9yZGVyOjpTVUNDRUVEKQogICAgICAgICAgICAtPmdldChbJ2lkJywgJ3N0YXR1cyddKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>245 m 246</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search encoding="base64">XDx3aGVyZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3aGVyZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -106,6 +141,8 @@
         <entry encoding="base64">XDxzY3JpcHRzXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDx3aGVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -115,6 +152,9 @@
         <entry>2</entry>
         <entry>6</entry>
         <entry>25</entry>
+        <entry>86</entry>
+        <entry>248</entry>
+        <entry>245 m 246</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>

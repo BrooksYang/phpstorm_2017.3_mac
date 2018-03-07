@@ -3,20 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520388463512">
+      <file name="/Dummy.txt" timestamp="1520403577169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/package.json" timestamp="1520338609380" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520339089551">
+      <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520402751048">
         <mark key="'" line="13" column="16" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="5" column="56" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/writingContest/writing-backend/resources/views/app/payOne.blade.php" timestamp="1520403650246">
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="91" column="38" />
+        <mark key="^" line="91" column="38" />
+        <mark key="." line="91" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/writingContest/writing-backend/app/Console/Kernel.php" timestamp="1520403372842" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="18" column="41" />
@@ -48,6 +55,7 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/writingContest/writing-backend/routes/app.php" timestamp="1520403533820" />
     </filemarks>
     <jumps>
       <jump line="158" column="78" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
@@ -128,7 +136,7 @@
         <text encoding="base64">Ly8g6I635Y+W6aG555uu57uf6K6hCiAgICAgICAgJG9yZGVycyA9IE9yZGVyOjp3aXRoKCd3aXRoZHJhdycpCiAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJfaWQnLCAkdXNlci0+aWQpCiAgICAgICAgICAgIC0+d2hlcmUoJ3N0YXR1cycsIE9yZGVyOjpTVUNDRUVEKQogICAgICAgICAgICAtPmdldChbJ2lkJywgJ3N0YXR1cyddKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>245 m 246</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -162,6 +170,7 @@
         <entry>86</entry>
         <entry>248</entry>
         <entry>245 m 246</entry>
+        <entry>wq</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>

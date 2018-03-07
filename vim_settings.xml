@@ -3,9 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520343672798">
+      <file name="/Dummy.txt" timestamp="1520388463512">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/package.json" timestamp="1520338609380" />
+      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
+        <mark key="[" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520339089551">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeWechat.js" timestamp="1520388276752" />
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520344586240">
         <mark key="'" line="271" column="14" />
         <mark key="[" line="245" column="0" />
@@ -14,13 +32,8 @@
         <mark key="^" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="/package.json" timestamp="1520338609380" />
-      <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520339089551">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="5" column="56" />
+      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
+        <mark key="[" line="353" column="27" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520343551255">
         <mark key="'" line="50" column="20" />
@@ -28,12 +41,6 @@
         <mark key="]" line="52" column="23" />
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="18" column="41" />
-        <mark key="." line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/password.js" timestamp="1520339279453">
         <mark key="[" line="0" column="0" />

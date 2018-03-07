@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1520403577169">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
+        <mark key="[" line="29" column="94" />
+      </file>
       <file name="/package.json" timestamp="1520338609380" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
@@ -38,6 +41,12 @@
         <mark key="m" line="243" column="22" />
         <mark key="^" line="245" column="0" />
         <mark key="." line="245" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-admin/app/Http/Controllers/Project/TagController.php" timestamp="1520406562417">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />

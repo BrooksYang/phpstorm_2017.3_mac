@@ -3,13 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520415579774">
+      <file name="/Dummy.txt" timestamp="1520432408300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
         <mark key="[" line="29" column="94" />
       </file>
-      <file name="/package.json" timestamp="1520338609380" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
       </file>
@@ -26,14 +25,13 @@
         <mark key="^" line="91" column="38" />
         <mark key="." line="91" column="38" />
       </file>
-      <file name="$USER_HOME$/Code/writingContest/writing-backend/app/Console/Kernel.php" timestamp="1520403372842" />
       <file name="$USER_HOME$/Code/jntz/jntz-app/package-lock.json" timestamp="1520338072150">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="18" column="41" />
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeWechat.js" timestamp="1520388276752" />
+      <file name="$USER_HOME$/Code/jntz/jntz-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1520431361517" />
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520408102156">
         <mark key="'" line="249" column="14" />
         <mark key="[" line="153" column="56" />
@@ -51,6 +49,14 @@
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Project/ProjectController.php" timestamp="1520432360611">
+        <mark key="e" line="63" column="86" />
+        <mark key="'" line="52" column="41" />
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520343551255">
         <mark key="'" line="50" column="20" />
         <mark key="[" line="52" column="23" />
@@ -64,7 +70,6 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/writingContest/writing-backend/routes/app.php" timestamp="1520403533820" />
     </filemarks>
     <jumps>
       <jump line="158" column="78" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
@@ -103,13 +108,14 @@
       <jump line="320" column="22" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
       <jump line="294" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
       <jump line="271" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
+      <jump line="61" column="41" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Project/ProjectController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgIC8vIOeUqOaIt+agh+etvgogICAgICAgICR1c2VyLT50YWdzID0gJHRoaXMtPmdldFVzZXJUYWdzKCR1c2VyKTsKCiAgICAgICAgLy8g6I635Y+W55So5oi36aG555uu57uf6K6hCiAgICAgICAgJHVzZXItPnN0YXRpc3RpY3MgPSBnZXRTdGF0aXN0aWNzKCR1c2VyKTs=</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>getStatistics</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aGVyZVw+</text>
@@ -182,6 +188,8 @@
         <entry>12</entry>
         <entry>453</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">

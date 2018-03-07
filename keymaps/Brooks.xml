@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction" />
   <action id="Refresh" />

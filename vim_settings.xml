@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/ScoreController.php" timestamp="1520477493856" />
@@ -35,6 +35,7 @@
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
         <mark key="'" line="105" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/service/search.js" timestamp="1520480132646" />
       <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
         <mark key="[" line="15" column="26" />
       </file>

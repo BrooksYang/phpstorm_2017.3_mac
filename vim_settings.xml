@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/ScoreController.php" timestamp="1520474420198" />
       <file name="/Dummy.txt" timestamp="1520433627941">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,6 +31,17 @@
         <mark key="]" line="18" column="41" />
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
+        <mark key="'" line="105" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
+        <mark key="[" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" timestamp="1520476347355">
+        <mark key="'" line="313" column="59" />
+        <mark key="[" line="321" column="58" />
+        <mark key="." line="321" column="60" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" timestamp="1520431361517" />
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520408102156">
@@ -63,6 +75,9 @@
         <mark key="." line="52" column="23" />
         <mark key="^" line="52" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" timestamp="1520476013683">
+        <mark key="'" line="221" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/password.js" timestamp="1520339279453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
@@ -71,8 +86,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="78" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
-      <jump line="112" column="6" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="123" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="124" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="127" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
@@ -108,6 +121,71 @@
       <jump line="294" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
       <jump line="271" column="14" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" />
       <jump line="61" column="41" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Project/ProjectController.php" />
+      <jump line="210" column="24" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="321" column="58" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="314" column="52" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="125" column="61" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="226" column="15" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="163" column="0" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="313" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
+      <jump line="280" column="24" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="85" column="77" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="104" column="100" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="108" column="30" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="120" column="99" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="194" column="46" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="105" column="21" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="45" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="46" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="51" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="52" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="84" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="94" column="66" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="101" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="102" column="37" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="103" column="67" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="108" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="109" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="110" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="111" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="116" column="41" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="118" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="119" column="61" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="124" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="129" column="51" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="130" column="45" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="133" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="134" column="61" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="135" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="143" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="144" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="145" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="146" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="149" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="150" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="151" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="152" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="163" column="93" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="164" column="50" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="173" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="174" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="175" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="176" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="179" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="180" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="181" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="182" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="193" column="93" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="194" column="50" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="202" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="203" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="204" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="205" column="32" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="212" column="67" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="219" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="220" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
+      <jump line="221" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -117,7 +195,7 @@
         <text encoding="base64">JHByb2plY3QtPmluX29uZV9kYXkgPyBkYXRlKCdIOmk6cycsICRzdGFydFRpbWVzdGFtcCkgOiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGVyZVw+</text>
+        <text>paper_id</text>
       </register>
       <register name="0" type="4">
         <text>geAvatarUrl</text>
@@ -154,10 +232,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aGVyZVw+</last-search>
+      <last-search>paper_id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGVyZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>paper_id</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -172,6 +250,8 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDx3aGVyZVw+</entry>
+        <entry>question_id</entry>
+        <entry>paper_id</entry>
       </history-search>
       <history-cmd>
         <entry>111</entry>

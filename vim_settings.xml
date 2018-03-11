@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1520433627941">
@@ -37,10 +37,11 @@
       <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
         <mark key="[" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-admin/resources/views/User/show.blade.php" timestamp="1520767032226">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Code/jntz/jntz-admin/resources/views/User/show.blade.php" timestamp="1520775269012">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="62" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" timestamp="1520476347355">
         <mark key="'" line="313" column="59" />
@@ -191,11 +192,11 @@
       <jump line="221" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+      <register name="&quot;" type="4">
+        <text>row</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHByb2plY3QtPmluX29uZV9kYXkgPyBkYXRlKCdIOmk6cycsICRzdGFydFRpbWVzdGFtcCkgOiA=</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text>question_id</text>

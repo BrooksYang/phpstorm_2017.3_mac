@@ -1,5 +1,5 @@
 <templateSet group="Brooks">
-  <template name=":extends" value="@extends('$NAME$')&#10;@section('content')&#10;    $VALUE$&#10;@endsection" description="extends" toReformat="false" toShortenFQNames="true">
+  <template name=":extends" value="@extends('$NAME$')&#10;&#10;@section('content')&#10;    $VALUE$&#10;@endsection" description="extends" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

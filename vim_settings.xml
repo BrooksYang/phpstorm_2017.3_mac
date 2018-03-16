@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
         <mark key="[" line="29" column="94" />
       </file>
+      <file name="$USER_HOME$/Code/learning/laravel-vue/resources/views/projects/create.blade.php" timestamp="1521184736593">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
       </file>
@@ -193,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>row</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>question_id</text>

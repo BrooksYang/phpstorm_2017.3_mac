@@ -40,6 +40,13 @@
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
         <mark key="'" line="105" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" timestamp="1521425191246">
+        <mark key="'" line="640" column="9" />
+        <mark key="[" line="599" column="31" />
+        <mark key="]" line="599" column="28" />
+        <mark key="^" line="599" column="28" />
+        <mark key="." line="599" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
         <mark key="[" line="15" column="26" />
       </file>
@@ -103,9 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
-      <jump line="133" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
-      <jump line="145" column="12" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="148" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="154" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="160" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
@@ -203,6 +207,9 @@
       <jump line="221" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="5" column="16" filename="$USER_HOME$/Code/learning/laravel-vue/public/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/learning/laravel-vue/public/js/app.js" />
+      <jump line="599" column="30" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
+      <jump line="618" column="21" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
+      <jump line="640" column="9" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -212,7 +219,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>question_id</text>
+        <text>img</text>
       </register>
       <register name="0" type="4">
         <text>geAvatarUrl</text>
@@ -249,9 +256,9 @@
       </register>
     </registers>
     <search>
-      <last-search>question_id</last-search>
+      <last-search>img</last-search>
       <last-offset />
-      <last-pattern>question_id</last-pattern>
+      <last-pattern>img</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -269,6 +276,7 @@
         <entry encoding="base64">XDx3aGVyZVw+</entry>
         <entry>paper_id</entry>
         <entry>question_id</entry>
+        <entry>img</entry>
       </history-search>
       <history-cmd>
         <entry>111</entry>

@@ -40,6 +40,13 @@
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
         <mark key="'" line="105" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning/public/css/classroom.css" timestamp="1521704507469">
+        <mark key="'" line="378" column="18" />
+        <mark key="[" line="477" column="1" />
+        <mark key="]" line="477" column="1" />
+        <mark key="^" line="477" column="1" />
+        <mark key="." line="477" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" timestamp="1521425191246">
         <mark key="'" line="640" column="9" />
         <mark key="[" line="599" column="31" />
@@ -110,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="154" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="160" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
       <jump line="166" column="8" filename="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" />
@@ -210,6 +216,7 @@
       <jump line="599" column="30" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
       <jump line="618" column="21" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
       <jump line="640" column="9" filename="$USER_HOME$/Code/Beesplay/learning/resources/views/welcome.blade.php" />
+      <jump line="378" column="18" filename="$USER_HOME$/Code/Beesplay/learning/public/css/classroom.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +259,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd1c2VyX2lkJywgJz0nLCAkaW5mby0+aWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>453</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -288,9 +295,9 @@
         <entry>86</entry>
         <entry>248</entry>
         <entry>245 m 246</entry>
-        <entry>wq</entry>
         <entry>12</entry>
         <entry>453</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

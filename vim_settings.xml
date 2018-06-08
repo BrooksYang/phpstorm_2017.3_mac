@@ -3,9 +3,6 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
-        <mark key="[" line="29" column="94" />
-      </file>
       <file name="$USER_HOME$/Code/learning/laravel-vue/resources/views/projects/create.blade.php" timestamp="1521200648592">
         <mark key="[" line="55" column="23" />
         <mark key="]" line="59" column="84" />
@@ -16,9 +13,6 @@
         <mark key="'" line="58" column="56" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
-        <mark key="[" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520402751048">
         <mark key="'" line="13" column="16" />
@@ -46,18 +40,16 @@
         <mark key="^" line="599" column="28" />
         <mark key="." line="599" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/yuanlian/otc/routes/trade.php" timestamp="1528423511648">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="27" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" timestamp="1520476347355">
         <mark key="'" line="313" column="59" />
         <mark key="[" line="321" column="58" />
         <mark key="." line="321" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520408102156">
-        <mark key="'" line="249" column="14" />
-        <mark key="[" line="153" column="56" />
-        <mark key="m" line="221" column="22" />
-        <mark key="]" line="395" column="7" />
-        <mark key="^" line="395" column="7" />
-        <mark key="." line="395" column="7" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-admin/app/Http/Controllers/Project/TagController.php" timestamp="1520406562417">
         <mark key="[" line="9" column="6" />
@@ -68,22 +60,31 @@
       <file name="$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/core-scripting.rnc" timestamp="1528361247958">
         <mark key="'" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
-        <mark key="[" line="353" column="27" />
+      <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" timestamp="1528424398968">
+        <mark key="'" line="61" column="54" />
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" timestamp="1528362285235">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/PayTypeController.php" timestamp="1528423491736">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="16" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520433627941">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/yuanlian/otc/routes/asset.php" timestamp="1528423165988" />
+      <file name="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/TradeController.php" timestamp="1528423459877">
+        <mark key="[" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/models/Currency.js" timestamp="1528361682619" />
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
         <mark key="'" line="105" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/AdvertisementCreate.vue" timestamp="1528422322755">
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="135" column="19" />
+        <mark key="." line="135" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/learning/public/css/classroom.css" timestamp="1521704507469">
         <mark key="'" line="378" column="18" />
@@ -91,9 +92,6 @@
         <mark key="]" line="477" column="1" />
         <mark key="^" line="477" column="1" />
         <mark key="." line="477" column="1" />
-      </file>
-      <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
-        <mark key="[" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/models/Advertisement.js" timestamp="1528361998424">
         <mark key="^" line="0" column="19" />
@@ -139,20 +137,14 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/models/PayTypes.js" timestamp="1528423704128">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="21" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="45" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="46" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="51" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="52" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="84" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="94" column="66" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="101" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="102" column="37" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="103" column="67" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="108" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="109" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="110" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="111" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
@@ -204,12 +196,10 @@
       <jump line="199" column="9" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="18" column="16" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="242" column="12" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
-      <jump line="248" column="13" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="20" column="24" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="216" column="19" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="258" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="33" column="24" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="79" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="90" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
@@ -241,49 +231,63 @@
       <jump line="209" column="17" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="186" column="11" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
       <jump line="184" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="51" column="68" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="45" column="24" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="46" column="58" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="20" column="4" filename="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/PayTypeController.php" />
+      <jump line="18" column="26" filename="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/PayTypeController.php" />
+      <jump line="22" column="1" filename="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/PayTypeController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Code/yuanlian/otc/app/Http/Controllers/Api/PayTypeController.php" />
+      <jump line="1" column="18" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/models/PayTypes.js" />
+      <jump line="222" column="30" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="247" column="15" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="248" column="20" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="289" column="0" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
+      <jump line="58" column="54" filename="$USER_HOME$/Code/yuanlian/otc/resources/assets/js/views/TradeIndex.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmlsdGVyLmN1cnJlbmN5X2lkID0gaXRlbS5pZDsgdHlwZSA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+5pSv5LuY5a6dPC9vcHRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+5b6u5L+h5pSv5LuYPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPlBheWxhbDwvb3B0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsdGVyLmN1cnJlbmN5X2lkID0gaXRlbS5pZDsgdHlwZSA9IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
-      <register name="0" type="4">
-        <text>B</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBQYXlQYXRocyBmcm9tICcuLi9tb2RlbHMvUGF5UGF0aCc7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ImN1cnJlbmN5IGluIGJhc2VDdXJyZW5jaWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICA6a2V5PSJjdXIiCiAgICAgICAgICAgICAgICAgICAgICAgID5i</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+5pSv5LuY5a6dPC9vcHRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+5b6u5L+h5pSv5LuYPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPlBheWxhbDwvb3B0aW9uPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi0reS5sOWIl+ihqAogICAgICAgICAgICAgICAgYnV5czogW10sCgogICAgICAgICAgICAgICAgLy8g6LSt5Lmw5YiX6KGoCiAgICAgICAgICAgICAgICBzZWxsczogW10sCgogICAgICAgICAgICAgICAgLy8g5b2T5YmN54K55Ye75LiL5Y2V55qE5bm/5ZGKCiAgICAgICAgICAgICAgICBhZHZlcnRpc2VtZW50OiB7fSwKCiAgICAgICAgICAgICAgICAvLyDmiJHnmoTlt7Lmv4DmtLvmlK/ku5jmlrnlvI/mlbDph48KICAgICAgICAgICAgICAgIHBheVBhdGhDb3VudDogMCw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAqIAogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFkdmVydGlzZW1lbnQuZ2V0KGJ1eXMgPT4gdGhpcy5idXlzID0gYnV5cywgcGFnZSwgcGVyX3BhZ2UsIDIpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFkdmVydGlzZW1lbnQuZ2V0KGJ1eXMgPT4gdGhpcy5idXlzID0gYnV5cywgcGFnZSwgcGVyX3BhZ2UsIDIpOwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFkdmVydGlzZW1lbnQuZ2V0KGJ1eXMgPT4gdGhpcy5idXlzID0gYnV5cywgcGFnZSwgcGVyX3BhZ2UsIDIpOwogICAgICAgICAgICB9LAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAvLw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgQ3VycmVuY3kubGVnYWwoY3VycmVuY2llcyA9PiB0aGlzLmxlZ2FsQ3VycmVuY2llcyA9IGN1cnJlbmNpZXMpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5LmxlZ2FsKGN1cnJlbmNpZXMgPT4gdGhpcy5iYXNlQ3VycmVuY2llcyA9IGN1cnJlbmNpZXMpOwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjxzdHJvbmc+5b2T5YmN6Zi25q61PC9zdHJvbmc+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7ey0tIOmhueebrumYtuaute+8jDHnp4Hli5/pmLbmrrXvvIwy5YWs5Yuf6Zi25q61IC0tfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAaWYgKCR1c2VyLT5zdGFnZSA9PSAxKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtd2FybmluZyIgc3R5bGU9ImZsb2F0OiBub25lIj7np4Hli5/ova48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVsc2VpZigkdXNlci0+c3RhZ2UgPT0gMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiIHN0eWxlPSJmbG9hdDogbm9uZSI+5YWs5Yuf6L2uPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48c3Ryb25nPumhueebrueKtuaAgTwvc3Ryb25nPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3stLSDpobnnm67nirbmgIHvvIzlt7Lpobnnm67li5/pm4bml7bpl7TkuLrlh4YgLS19fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoJHVzZXItPnN0YXJ0X2F0ID4gJG5vdykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXdhcm5pbmciIHN0eWxlPSJmbG9hdDogbm9uZSI+5b6F5byA5aeLPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlaWYoJHVzZXItPnN0YXJ0X2F0IDwgJG5vdyAmJiAkbm93IDwgJHVzZXItPmVuZF9hdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiIHN0eWxlPSJmbG9hdDogbm9uZSI+6L+b6KGM5LitPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlbHNlaWYoJHVzZXItPmVuZF9hdCA8ICRub3cpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1kZWZhdWx0IiBzdHlsZT0iZmxvYXQ6IG5vbmUiPuW3sue7k+adnzwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PHN0cm9uZz7lt7Lli5/mlbDpop08L3N0cm9uZz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICR1c2VyLT5yYWlzZWRfYW1vdW50IH19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5LmxlZ2FsKGN1cnJlbmNpZXMgPT4gdGhpcy5iYXNlQ3VycmVuY2llcyA9IGN1cnJlbmNpZXMpOwogICAgICAgICAgICB9LAoKICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIOWIh+aNouW4geenjQogICAgICAgICAgICAgKi8KICAgICAgICAgICAgY2hhbmdlQ3VycmVuY3koY3VycmVuY3lfaWQsIHR5cGUpIHsKICAgICAgICAgICAgICAgIHRoaXMuc2VhcmNoLmN1cnJlbmN5X2lkID0gY3VycmVuY3lfaWQ7CiAgICAgICAgICAgICAgICB0aGlzLnNlYXJjaC50eXBlID0gdHlwZTsKCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0VGltZXN0YW1wID0gJHByb2plY3QtPnN0YXJ0X2F0LT50aW1lc3RhbXAgLSB0aW1lKCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">5rOV5biB5L+h5oGvCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>172</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
@@ -310,7 +314,6 @@
         <entry>img</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
         <entry>124</entry>
         <entry>144</entry>
         <entry>2</entry>
@@ -320,9 +323,7 @@
         <entry>248</entry>
         <entry>245 m 246</entry>
         <entry>453</entry>
-        <entry>wq</entry>
         <entry>12</entry>
-        <entry>23</entry>
         <entry>19</entry>
         <entry>243</entry>
         <entry>1</entry>
@@ -330,6 +331,9 @@
         <entry>205</entry>
         <entry>217</entry>
         <entry>172</entry>
+        <entry>23</entry>
+        <entry>wq</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -343,6 +347,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

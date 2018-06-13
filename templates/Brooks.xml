@@ -1,5 +1,5 @@
 <templateSet group="Brooks">
-  <template name=":extends" value="@extends('$NAME$')&#10;&#10;@section('content')&#10;    $VALUE$&#10;@endsection" description="extends" toReformat="false" toShortenFQNames="true">
+  <template name=":extends" value="@extends('$NAME$')&#10;@section('content')&#10;    $VALUE$&#10;@endsection" description="extends" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -304,16 +304,6 @@
     <variable name="USE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name=":vue" value="new Vue({&#10;    el: '#$ELE$',&#10;    &#10;    data: {&#10;        $DATA$&#10;    },&#10;    &#10;    mounted() {&#10;        $MOUNTED$&#10;    },&#10;    &#10;    computed: {&#10;        $COMPUTED$&#10;    },&#10;    &#10;    methods: {&#10;        $METHODS$&#10;    }&#10;});&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="ELE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="MOUNTED" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="COMPUTED" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHODS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>

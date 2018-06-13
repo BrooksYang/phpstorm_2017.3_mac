@@ -3,7 +3,9 @@
     <option name="version" value="2.4.0.3-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
-    <option name="useMaterialIcons" value="false" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="3ee9328d:163f6f4b733:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>

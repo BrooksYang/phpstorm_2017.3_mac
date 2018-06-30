@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="CronSchedule" type="PLAIN_TEXT" />
       <mapping pattern="Schedule" type="PLAIN_TEXT" />
+      <mapping pattern="CronSchedule" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>

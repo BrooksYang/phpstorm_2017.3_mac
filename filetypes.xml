@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="Schedule" type="PLAIN_TEXT" />
       <mapping pattern="CronSchedule" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="sdef" type="XML" />
     </extensionMap>
   </component>
 </application>

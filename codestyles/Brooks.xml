@@ -1,6 +1,10 @@
-<code_scheme name="Brooks">
+<code_scheme name="Brooks" version="173">
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
@@ -16,8 +20,9 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
@@ -35,5 +40,6 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
   </codeStyleSettings>
 </code_scheme>

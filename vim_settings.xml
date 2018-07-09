@@ -10,22 +10,6 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531064841315">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/app/Http/Resources/Partner/PartnerResource.php" timestamp="1531064833076">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="46" />
-        <mark key="." line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" timestamp="1531064521484">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="85" column="19" />
-        <mark key="]" line="85" column="20" />
-        <mark key="." line="85" column="11" />
-      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
         <mark key="[" line="29" column="94" />
       </file>
@@ -58,40 +42,10 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
-        <mark key="'" line="105" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
-        <mark key="[" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/jntz/jntz-admin/resources/views/User/show.blade.php" timestamp="1520775269012">
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="32" />
-        <mark key="." line="63" column="32" />
-        <mark key="^" line="62" column="29" />
-      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" timestamp="1520476347355">
         <mark key="'" line="313" column="59" />
         <mark key="[" line="321" column="58" />
         <mark key="." line="321" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/NewsList.vue" timestamp="1531064943984">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="33" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/HomePartnerList.vue" timestamp="1531064444303">
-        <mark key="'" line="49" column="7" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/User/UserController.php" timestamp="1520408102156">
         <mark key="'" line="249" column="14" />
@@ -109,6 +63,58 @@
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531064841315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/app/Http/Resources/Partner/PartnerResource.php" timestamp="1531064833076">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" timestamp="1531064521484">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="20" />
+        <mark key="." line="85" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
+        <mark key="'" line="105" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
+        <mark key="[" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/app/Traits/EntranceUserTrait.php" timestamp="1531103520832">
+        <mark key="[" line="101" column="25" />
+        <mark key="]" line="101" column="24" />
+        <mark key="^" line="101" column="24" />
+        <mark key="." line="101" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/jntz/jntz-admin/resources/views/User/show.blade.php" timestamp="1520775269012">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="62" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/NewsList.vue" timestamp="1531064943984">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="33" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/HomePartnerList.vue" timestamp="1531064444303">
+        <mark key="'" line="49" column="7" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Project/ProjectController.php" timestamp="1520471411594">
         <mark key="'" line="52" column="41" />
@@ -277,7 +283,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>156</text>
       </register>
     </registers>
     <search>
@@ -310,8 +316,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
-        <entry>12</entry>
         <entry>229</entry>
         <entry>214</entry>
         <entry>150</entry>
@@ -330,6 +334,8 @@
         <entry>86</entry>
         <entry>19</entry>
         <entry>wq</entry>
+        <entry>101</entry>
+        <entry>156</entry>
       </history-cmd>
       <history-expr />
       <history-input />

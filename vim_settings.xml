@@ -10,7 +10,6 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/bootstrap.js" timestamp="1531146033432" />
       <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
         <mark key="[" line="29" column="94" />
       </file>
@@ -81,6 +80,10 @@
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" timestamp="1531278058561">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" timestamp="1520474810316">
         <mark key="'" line="105" column="21" />
       </file>
@@ -145,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
       <jump line="313" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
       <jump line="280" column="24" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="85" column="77" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
@@ -245,6 +247,7 @@
       <jump line="70" column="58" filename="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" />
       <jump line="85" column="4" filename="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" />
       <jump line="18" column="12" filename="$USER_HOME$/Code/Fac/fac-portal/app/Http/Resources/Partner/PartnerResource.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

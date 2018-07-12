@@ -64,6 +64,13 @@
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" timestamp="1531401471256">
+        <mark key="'" line="10" column="23" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531064841315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="59" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/QuizController.php" />
       <jump line="280" column="24" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="85" column="77" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="104" column="100" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
@@ -248,13 +254,14 @@
       <jump line="85" column="4" filename="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" />
       <jump line="18" column="12" filename="$USER_HOME$/Code/Fac/fac-portal/app/Http/Resources/Partner/PartnerResource.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" />
+      <jump line="4" column="23" filename="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -290,7 +297,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -323,7 +330,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>214</entry>
         <entry>150</entry>
         <entry>100</entry>
         <entry>83</entry>
@@ -343,6 +349,7 @@
         <entry>101</entry>
         <entry>156</entry>
         <entry>1</entry>
+        <entry>5</entry>
       </history-cmd>
       <history-expr />
       <history-input />

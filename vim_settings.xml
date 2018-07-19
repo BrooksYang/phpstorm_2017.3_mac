@@ -101,6 +101,12 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-admin-api/.env" timestamp="1531983866452">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
         <mark key="[" line="15" column="26" />
       </file>
@@ -258,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>redis</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -297,7 +303,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>5</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -330,7 +336,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>150</entry>
         <entry>100</entry>
         <entry>83</entry>
         <entry>240</entry>
@@ -345,11 +350,12 @@
         <entry>23</entry>
         <entry>86</entry>
         <entry>19</entry>
-        <entry>wq</entry>
         <entry>101</entry>
         <entry>156</entry>
         <entry>1</entry>
         <entry>5</entry>
+        <entry>17</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

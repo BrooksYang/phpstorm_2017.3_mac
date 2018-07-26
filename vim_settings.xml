@@ -62,6 +62,12 @@
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-portal/resources/assets/js/api/UCenter.js" timestamp="1532585074934">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" timestamp="1531401471256">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="21" column="5" />
@@ -301,7 +307,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -349,11 +355,11 @@
         <entry>19</entry>
         <entry>101</entry>
         <entry>156</entry>
-        <entry>1</entry>
         <entry>5</entry>
         <entry>17</entry>
         <entry>2</entry>
         <entry>wq</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />

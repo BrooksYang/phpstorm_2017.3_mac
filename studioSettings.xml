@@ -5,14 +5,31 @@
         <option name="enableInternalFeatures" value="false" />
       </GeneralSettings>
     </option>
+    <option name="accountSettings">
+      <AccountSettings>
+        <option name="providerAccountMap">
+          <map>
+            <entry value="LTAIG4bMZvHpXfC2###9jZX0Bn8wUB2jv1AaOjjKdWoK2Wz9p###Brooks">
+              <key>
+                <AccountUnitKey>
+                  <option name="name" value="Brooks" />
+                  <option name="providerId" value="Aliyun Account By AccessKey" />
+                </AccountUnitKey>
+              </key>
+            </entry>
+          </map>
+        </option>
+        <option name="defaultAccount" value="Brooks" />
+      </AccountSettings>
+    </option>
     <option name="sdkSettings">
       <SdkSettings>
         <option name="allSdks">
           <list>
             <SdkInfo>
               <option name="sdkType" value="ODPS_CMD" />
-              <option name="version" value="0.29.1" />
-              <option name="installedLocation" value="$APPLICATION_PLUGINS_DIR$/odps-studio-intellij/odpscmd_public" />
+              <option name="version" value="0.28.0" />
+              <option name="installedLocation" value="$USER_HOME$/odpscmd_public" />
               <option name="isDefault" value="true" />
             </SdkInfo>
           </list>

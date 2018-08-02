@@ -56,6 +56,9 @@
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Tool_External Tools_phpcs">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.UpdateProject">

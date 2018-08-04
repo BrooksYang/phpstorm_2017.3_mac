@@ -70,6 +70,12 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/database/migrations/2018_08_04_155922_create_wallets_table.php" timestamp="1533398665575">
+        <mark key="i" line="21" column="47" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" timestamp="1531401471256">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="21" column="5" />
@@ -93,7 +99,6 @@
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/ex/config/blockChain.php" timestamp="1533298816795" />
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" timestamp="1531278058561">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
@@ -105,6 +110,7 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/database/migrations/2018_08_04_155413_create_balances_table.php" timestamp="1533398676971" />
       <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-admin-api/.env" timestamp="1531983866452">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="17" />
@@ -272,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>another</text>
+        <text>钱包名称</text>
       </register>
       <register name="-" type="4">
-        <text>another</text>
+        <text>钱包名称</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -311,7 +317,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -344,7 +350,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>240</entry>
         <entry>232</entry>
         <entry>30</entry>
         <entry>75</entry>
@@ -364,6 +369,7 @@
         <entry>wq</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />

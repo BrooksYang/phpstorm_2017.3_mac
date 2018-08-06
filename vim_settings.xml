@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -60,7 +60,10 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/ex/app/Traits/WalletServerHelper.php" timestamp="1533547477257" />
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/config/blockChain.php" timestamp="1533548256927">
+        <mark key="[" line="17" column="39" />
+      </file>
+      <file name="$USER_HOME$/Code/Exchange/ex/app/Traits/WalletServerHelper.php" timestamp="1533548301602" />
       <file name="$USER_HOME$/Code/jntz/jntz-admin/app/Http/Controllers/Project/TagController.php" timestamp="1520406562417">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="3" />
@@ -76,11 +79,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/database/migrations/2018_08_04_155922_create_wallets_table.php" timestamp="1533398665575">
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/database/migrations/2018_08_04_155922_create_wallets_table.php" timestamp="1533548487861">
         <mark key="i" line="21" column="47" />
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" timestamp="1531401471256">
         <mark key="'" line="10" column="23" />
@@ -105,8 +108,10 @@
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/User/WalletController.php" timestamp="1533547368899">
-        <mark key="[" line="15" column="22" />
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/User/WalletController.php" timestamp="1533548529581">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" timestamp="1531278058561">
         <mark key="'" line="8" column="0" />
@@ -180,6 +185,12 @@
       </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/wap/routes/routes.js" timestamp="1531145703714">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/.env" timestamp="1533548216421">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="31" />
+        <mark key="." line="49" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -285,11 +296,13 @@
       <jump line="45" column="0" filename="$USER_HOME$/Code/Exchange/ex/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Wallet::create([
+            
+        ]);</text>
       </register>
       <register name="-" type="4">
-        <text>钱包名称</text>
+        <text encoding="base64">ICAgICR3YWxsZXQgPSAkdGhpcy0+Zw==</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -297,35 +310,37 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Wallet::create([
+            
+        ]);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2tleScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn6ZKx5YyFa2V5Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBkZGVuZXJhdGVFdGhXYWxsZXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ZDZHblA3bWowczlKR0RhN0RQUUl2RFFKTzEyRlVLcEQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE5LnBuZycKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE1LmpwZycKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8wNy5qcGcnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8xMS5qcGcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g5ZCI5L2c5LyZ5Ly05pWw5o2uCiAgICAgICAgICAgICAgICBwYXJ0bmVyOlsKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE5LnBuZycKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>15</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -365,7 +380,6 @@
         <entry encoding="base64">JzwsJz4yMjU=</entry>
         <entry>225</entry>
         <entry>56</entry>
-        <entry>23</entry>
         <entry>86</entry>
         <entry>19</entry>
         <entry>101</entry>
@@ -373,11 +387,12 @@
         <entry>5</entry>
         <entry>17</entry>
         <entry>2</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>w</entry>
         <entry>18</entry>
         <entry>15</entry>
+        <entry>23</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

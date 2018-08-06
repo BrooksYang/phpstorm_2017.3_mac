@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -21,6 +21,11 @@
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Traits/WalletHelper.php" timestamp="1533547700454">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/package.json" timestamp="1520402751048">
         <mark key="'" line="13" column="16" />
@@ -55,6 +60,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/Exchange/ex/app/Traits/WalletServerHelper.php" timestamp="1533547477257" />
       <file name="$USER_HOME$/Code/jntz/jntz-admin/app/Http/Controllers/Project/TagController.php" timestamp="1520406562417">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="3" />
@@ -99,6 +105,9 @@
         <mark key="]" line="85" column="20" />
         <mark key="." line="85" column="11" />
       </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/User/WalletController.php" timestamp="1533547368899">
+        <mark key="[" line="15" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" timestamp="1531278058561">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
@@ -110,7 +119,6 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/database/migrations/2018_08_04_155413_create_balances_table.php" timestamp="1533398676971" />
       <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-admin-api/.env" timestamp="1531983866452">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="17" />
@@ -277,8 +285,8 @@
       <jump line="45" column="0" filename="$USER_HOME$/Code/Exchange/ex/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>钱包名称</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>钱包名称</text>
@@ -290,34 +298,34 @@
         <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE5LnBuZycKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE1LmpwZycKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8wNy5qcGcnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8xMS5qcGcnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8g5ZCI5L2c5LyZ5Ly05pWw5o2uCiAgICAgICAgICAgICAgICBwYXJ0bmVyOlsKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE5LnBuZycKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE1LmpwZycKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8wNy5qcGcnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ286Jy9pbWFnZXMvcGFydG5lcl8xMS5qcGcnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8g5ZCI5L2c5LyZ5Ly05pWw5o2uCiAgICAgICAgICAgICAgICBwYXJ0bmVyOlsKICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text>15</text>
       </register>
     </registers>
     <search>
@@ -350,7 +358,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>232</entry>
         <entry>30</entry>
         <entry>75</entry>
         <entry>166</entry>
@@ -370,6 +377,7 @@
         <entry>1</entry>
         <entry>w</entry>
         <entry>18</entry>
+        <entry>15</entry>
       </history-cmd>
       <history-expr />
       <history-input />

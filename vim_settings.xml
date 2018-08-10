@@ -117,11 +117,11 @@
         <mark key="]" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533890885392">
-        <mark key="[" line="105" column="29" />
-        <mark key="]" line="106" column="13" />
-        <mark key="^" line="106" column="13" />
-        <mark key="." line="106" column="13" />
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533891981655">
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="130" column="31" />
+        <mark key="^" line="130" column="31" />
+        <mark key="." line="130" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Aub/ausapp-api/app/User.php" timestamp="1533890930351" />
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
@@ -208,7 +208,7 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/ex/config/conf.php" timestamp="1533883750376">
+      <file name="$USER_HOME$/Code/Exchange/ex/config/conf.php" timestamp="1533891754759">
         <mark key="[" line="4" column="4" />
       </file>
     </filemarks>
@@ -316,7 +316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$walletBalance</text>
+        <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcGFyYW0gV2l0aGRyYXdSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcSnNvblJlc3BvbnNlCiAgICAgKiBAdGhyb3dzIFxBcHBcRXhjZXB0aW9uc1xFdGhFeGNlcHRpb24KICAgICAqLw==</text>
       </register>
       <register name="-" type="4">
         <text>$walletBalance</text>
@@ -327,38 +327,38 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcGFyYW0gV2l0aGRyYXdSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcSnNvblJlc3BvbnNlCiAgICAgKiBAdGhyb3dzIFxBcHBcRXhjZXB0aW9uc1xFdGhFeGNlcHRpb24KICAgICAqLw==</text>
+      </register>
+      <register name="2" type="8">
         <text>Balances
 Balances</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Transaction::create([
            ''
        ]);
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Wallet::create([
             
         ]);</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2tleScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn6ZKx5YyFa2V5Jyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZGVuZXJhdGVFdGhXYWxsZXQoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZDZHblA3bWowczlKR0RhN0RQUUl2RFFKTzEyRlVLcEQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>48</text>

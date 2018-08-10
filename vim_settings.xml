@@ -117,12 +117,13 @@
         <mark key="]" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533884330831">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="78" column="12" />
-        <mark key="^" line="78" column="12" />
-        <mark key="." line="78" column="12" />
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533890885392">
+        <mark key="[" line="105" column="29" />
+        <mark key="]" line="106" column="13" />
+        <mark key="^" line="106" column="13" />
+        <mark key="." line="106" column="13" />
       </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/User.php" timestamp="1533890930351" />
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="14" column="16" />
@@ -201,11 +202,11 @@
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/wap/routes/routes.js" timestamp="1531145703714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Aub/ausapp-api/.env" timestamp="1533548216421">
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/.env" timestamp="1533887064251">
         <mark key="[" line="48" column="25" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="31" />
-        <mark key="." line="49" column="0" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Code/Exchange/ex/config/conf.php" timestamp="1533883750376">
         <mark key="[" line="4" column="4" />
@@ -315,13 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Transaction::create([
-           ''
-       ]);
-    }</text>
+        <text>$walletBalance</text>
       </register>
       <register name="-" type="4">
-        <text>withdraw</text>
+        <text>$walletBalance</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -329,37 +327,38 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="8">
+        <text>Balances
+Balances</text>
+      </register>
+      <register name="2" type="4">
         <text>Transaction::create([
            ''
        ]);
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Wallet::create([
             
         ]);</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2tleScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn6ZKx5YyFa2V5Jyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZGVuZXJhdGVFdGhXYWxsZXQoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZDZHblA3bWowczlKR0RhN0RQUUl2RFFKTzEyRlVLcEQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
@@ -395,7 +394,6 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
         <entry>166</entry>
         <entry encoding="base64">JzwsJz4yMjU=</entry>
         <entry>225</entry>
@@ -415,6 +413,7 @@
         <entry>wq</entry>
         <entry>8</entry>
         <entry>48</entry>
+        <entry>Q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

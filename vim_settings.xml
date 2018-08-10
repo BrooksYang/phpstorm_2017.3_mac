@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -63,12 +63,18 @@
       <file name="$USER_HOME$/Code/Aub/ausapp-api/config/blockChain.php" timestamp="1533548256927">
         <mark key="[" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/ex/app/Traits/WalletServerHelper.php" timestamp="1533548301602" />
       <file name="$USER_HOME$/Code/jntz/jntz-admin/app/Http/Controllers/Project/TagController.php" timestamp="1520406562417">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Exceptions/ErrorCode.php" timestamp="1533881427054">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="51" column="6" />
+        <mark key="^" line="51" column="6" />
+        <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
@@ -102,12 +108,6 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/Home.vue" timestamp="1531064521484">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="85" column="19" />
-        <mark key="]" line="85" column="20" />
-        <mark key="." line="85" column="11" />
-      </file>
       <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/User/WalletController.php" timestamp="1533548529581">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="61" />
@@ -116,6 +116,12 @@
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/.env" timestamp="1531278058561">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533881356647">
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="73" column="12" />
+        <mark key="^" line="73" column="12" />
+        <mark key="." line="73" column="12" />
       </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
         <mark key="'" line="13" column="8" />
@@ -139,6 +145,13 @@
         <mark key="^" line="101" column="24" />
         <mark key="." line="101" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Models/Transaction.php" timestamp="1533880845878">
+        <mark key="'" line="2" column="21" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-portal/.env" timestamp="1532679701017">
         <mark key="a" line="40" column="17" />
         <mark key="'" line="0" column="0" />
@@ -152,9 +165,11 @@
         <mark key="." line="63" column="32" />
         <mark key="^" line="62" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/NewsList.vue" timestamp="1531064943984">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="33" column="14" />
+      <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Requests/Wallet/WithdrawRequest.php" timestamp="1533881036520">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="32" column="46" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="32" column="46" />
       </file>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/views/HomePartnerList.vue" timestamp="1531064444303">
         <mark key="'" line="49" column="7" />
@@ -194,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="100" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
-      <jump line="108" column="30" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="120" column="99" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="194" column="46" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
       <jump line="105" column="21" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
@@ -294,15 +307,18 @@
       <jump line="4" column="23" filename="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Geography.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/Beesplay/pzh/pzh-portal/.env" />
       <jump line="45" column="0" filename="$USER_HOME$/Code/Exchange/ex/.env" />
+      <jump line="2" column="21" filename="$USER_HOME$/Code/Aub/ausapp-api/app/Models/Transaction.php" />
+      <jump line="41" column="10" filename="$USER_HOME$/Code/Aub/ausapp-api/app/Exceptions/ErrorCode.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Wallet::create([
-            
-        ]);</text>
+        <text>Transaction::create([
+           ''
+       ]);
+    }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICR3YWxsZXQgPSAkdGhpcy0+Zw==</text>
+        <text>withdraw</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -311,36 +327,39 @@
         <text encoding="base64">CiAgICAgICAgPCEtLSDliIbpobUgLS0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBqdXN0aWZ5PSJjZW50ZXIiIHYtaWY9InNob3dQYWdpbmF0aW9uIiBjbGFzcz0icGFnaW5hdGlvbiI+CiAgICAgICAgICAgIDxQYWdlIHNpbXBsZQogICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIKICAgICAgICAgICAgICAgICAgOnRvdGFsPSJuZXdzLnRvdGFsIgogICAgICAgICAgICAgICAgICA6cGFnZVNpemU9InBhcnNlSW50KG5ld3MucGVyX3BhZ2UpIgogICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJnZXROZXdzIgogICAgICAgICAgICA+PC9QYWdlPgogICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="1" type="4">
+        <text>Transaction::create([
+           ''
+       ]);
+    }</text>
+      </register>
+      <register name="2" type="4">
         <text>Wallet::create([
             
         ]);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2tleScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn6ZKx5YyFa2V5Jyk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkZGVuZXJhdGVFdGhXYWxsZXQoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZDZHblA3bWowczlKR0RhN0RQUUl2RFFKTzEyRlVLcEQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQiOS9nOS8meS8tOaVsOaNrgogICAgICAgICAgICAgICAgcGFydG5lcjpbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDMuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMDcuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTEuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTUuanBnJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dvOicvaW1hZ2VzL3BhcnRuZXJfMTkucG5nJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBdCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nbzonL2ltYWdlcy9wYXJ0bmVyXzE5LnBuZycKICAgICAgICAgICAgICAgICAgICB9LAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
@@ -373,10 +392,8 @@
         <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>75</entry>
         <entry>166</entry>
-        <entry>48</entry>
         <entry encoding="base64">JzwsJz4yMjU=</entry>
         <entry>225</entry>
         <entry>56</entry>
@@ -393,6 +410,8 @@
         <entry>15</entry>
         <entry>23</entry>
         <entry>wq</entry>
+        <entry>8</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />

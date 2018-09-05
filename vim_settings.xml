@@ -60,6 +60,9 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/yytang/routes/api.php" timestamp="1536122172608">
+        <mark key="[" line="67" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-portal/app/Http/Controllers/Site/IndexController.php" timestamp="1533893235817">
         <mark key="[" line="63" column="38" />
         <mark key="]" line="63" column="42" />
@@ -125,6 +128,9 @@
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="61" />
         <mark key="." line="16" column="61" />
+      </file>
+      <file name="$USER_HOME$/Code/yytang/app/Http/Controllers/VideoController.php" timestamp="1536122181059">
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Http/Controllers/Wallet/WalletController.php" timestamp="1533891981655">
         <mark key="[" line="130" column="32" />

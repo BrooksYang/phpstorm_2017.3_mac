@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -141,6 +141,19 @@
         <mark key="." line="247" column="74" />
         <mark key="^" line="247" column="74" />
       </file>
+      <file name="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Jobs/score.php" timestamp="1543978274515">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Http/Controllers/Quiz/AnswerController.php" timestamp="1543978640486">
+        <mark key="'" line="108" column="9" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="109" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/yytang/app/Http/Controllers/VideoController.php" timestamp="1536122181059">
         <mark key="[" line="8" column="6" />
       </file>
@@ -150,7 +163,6 @@
         <mark key="^" line="130" column="31" />
         <mark key="." line="130" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/auto/web/resources/views/bankService/guarantee/index.blade.php" timestamp="1542362218892" />
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/News.js" timestamp="1531062795946">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="14" column="16" />
@@ -251,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="46" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
-      <jump line="105" column="21" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnswerController.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="45" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="46" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="51" column="38" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="52" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
@@ -351,68 +359,70 @@
       <jump line="2" column="21" filename="$USER_HOME$/Code/Aub/ausapp-api/app/Models/Transaction.php" />
       <jump line="41" column="10" filename="$USER_HOME$/Code/Aub/ausapp-api/app/Exceptions/ErrorCode.php" />
       <jump line="10" column="6" filename="$USER_HOME$/Code/Aub/ausapp-api/app/Models/Admin.php" />
+      <jump line="112" column="28" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Http/Controllers/Quiz/AnswerController.php" />
+      <jump line="130" column="19" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Http/Controllers/Quiz/AnswerController.php" />
+      <jump line="104" column="21" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Http/Controllers/Quiz/AnswerController.php" />
+      <jump line="108" column="9" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Http/Controllers/Quiz/AnswerController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLw==</text>
+        <text>Auth</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGlzcGxheSA=</text>
+        <text>Auth</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>cal_flag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qCiAgICB8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIHwg5a2m5Lmg6K6w5b2VCiAgICB8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIHwKICAgIHwg5a2m5Lmg6K6w5b2V55u45YWz6Lev55SxCiAgICB8CiAgICAqLwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVpel9pZCA9IElucHV0OjpnZXQoJ3F1aXpfaWQnKTsgLy8g5rWL6K+EaWQKICAgICAgICAkYW5zd2VycyA9IElucHV0OjpnZXQoJ2Fuc3dlcnMnKTsgLy8g5rWL6aqM562U5qGI5pWw57uEWydxdWVzdGlvbl9pZCc9PidhbnN3ZXInLCdxdWVzdGlvbl9pZCc9PidhbnN3ZXInXQogICAgICAgICRjYWxfZmxhZyA9IElucHV0OjpnZXQoJ2NhbF9mbGFnJyk/OjA7IC8vIOaYr+WQpuebtOaOpeiuoeeul+aAu+aIkOe7qe+8jOm7mOiupDDkuI3orqHnrpcKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKICAgICAqLw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgKiAKICAgICAqCiAgICAgKiBAcGFyYW0gV2l0aGRyYXdSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcSnNvblJlc3BvbnNlCiAgICAgKiBAdGhyb3dzIFxBcHBcRXhjZXB0aW9uc1xFdGhFeGNlcHRpb24KICAgICAqLw==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>Balances
 Balances</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Transaction::create([
            ''
        ]);
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Wallet::create([
             
         ]);</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2tleScpLT5kZWZhdWx0KCcnKS0+Y29tbWVudCgn6ZKx5YyFa2V5Jyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZGVuZXJhdGVFdGhXYWxsZXQoKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZDZHblA3bWowczlKR0RhN0RQUUl2RFFKTzEyRlVLcEQK</text>
-      </register>
       <register name=":" type="4">
-        <text>30</text>
+        <text>131</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>cal_flag</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>cal_flag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>return</entry>
         <entry>rct</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDx0d2lsaW9cPg==</entry>
@@ -430,10 +440,11 @@ Balances</text>
         <entry>partner</entry>
         <entry>Par</entry>
         <entry>title</entry>
+        <entry>finish</entry>
+        <entry>answer</entry>
+        <entry>cal_flag</entry>
       </history-search>
       <history-cmd>
-        <entry>86</entry>
-        <entry>19</entry>
         <entry>101</entry>
         <entry>156</entry>
         <entry>5</entry>
@@ -452,6 +463,8 @@ Balances</text>
         <entry>207</entry>
         <entry>228</entry>
         <entry>30</entry>
+        <entry>12</entry>
+        <entry>131</entry>
       </history-cmd>
       <history-expr />
       <history-input />

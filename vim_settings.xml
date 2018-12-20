@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -58,7 +58,9 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/exchange/src/main.js" timestamp="1545285629339" />
+      <file name="$USER_HOME$/Code/Exchange/exchange/src/main.js" timestamp="1545286948339">
+        <mark key="[" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/Aub/ausapp-api/app/Exceptions/ErrorCode.php" timestamp="1533881427054">
         <mark key="'" line="41" column="10" />
         <mark key="[" line="51" column="7" />
@@ -141,6 +143,9 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/Exchange/exchange/src/router/router.js" timestamp="1545287595128">
+        <mark key="'" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/password.js" timestamp="1520339279453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="20" />
@@ -200,11 +205,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/Exchange/exchange/src/router/index.js" timestamp="1545285649453">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="3" />
+      <file name="$USER_HOME$/Code/Exchange/exchange/src/router/index.js" timestamp="1545287421957">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/login/register.js" timestamp="1520388414115">
         <mark key="[" line="353" column="27" />
@@ -322,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="37" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="103" column="67" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="108" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="109" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
@@ -422,13 +426,14 @@
       <jump line="97" column="39" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Jobs/calculateScore.php" />
       <jump line="108" column="39" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Jobs/calculateScore.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Constants/Api.php" />
+      <jump line="3" column="23" filename="$USER_HOME$/Code/Exchange/exchange/src/router/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfAo=</text>
+      <register name="&quot;" type="4">
+        <text>routes =</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm91dGVyIA==</text>
+        <text>routes =</text>
       </register>
       <register name="/" type="4">
         <text>course_id</text>
@@ -464,7 +469,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -498,7 +503,6 @@
         <entry>course_id</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
         <entry>17</entry>
         <entry>2</entry>
         <entry>18</entry>
@@ -518,6 +522,7 @@
         <entry>154</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>3</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -202,6 +202,9 @@
       <file name="$USER_HOME$/Code/yytang/routes/api.php" timestamp="1536122172608">
         <mark key="[" line="67" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/Exchange/ex-portal/src/config/api.js" timestamp="1545823621348">
+        <mark key="[" line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/Code/Aub/ausapp-api/config/blockChain.php" timestamp="1533548256927">
         <mark key="[" line="17" column="39" />
       </file>
@@ -259,6 +262,12 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/Exchange/ex-open-api/routes/api.php" timestamp="1545823720565">
+        <mark key="[" line="94" column="76" />
+        <mark key="]" line="94" column="20" />
+        <mark key="." line="94" column="20" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Exceptions/Handler.php" timestamp="1543981664636">
         <mark key="[" line="27" column="10" />
@@ -320,6 +329,9 @@
         <mark key="]" line="68" column="22" />
         <mark key="^" line="68" column="22" />
         <mark key="." line="68" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/Exchange/ex-portal/src/api/user.js" timestamp="1545823613858">
+        <mark key="[" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-api/app/Http/Controllers/Chat/ChatController.php" timestamp="1520343551255">
         <mark key="'" line="50" column="20" />
@@ -442,11 +454,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/Code/Exchange/ex-portal/src/api/cms.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQ21zIHsK</text>
+      <register name="&quot;" type="4">
+        <text>common/</text>
       </register>
       <register name="-" type="4">
-        <text>routes =</text>
+        <text>common/</text>
       </register>
       <register name="/" type="4">
         <text>course_id</text>

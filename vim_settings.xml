@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -18,6 +18,9 @@
         <mark key="]" line="45" column="8" />
         <mark key="." line="45" column="8" />
         <mark key="^" line="76" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/KLine.vue" timestamp="1546414566214">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
@@ -275,6 +278,9 @@
         <mark key="." line="94" column="20" />
         <mark key="^" line="94" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/Newest.vue" timestamp="1546414574654">
+        <mark key="'" line="69" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Exceptions/Handler.php" timestamp="1543981664636">
         <mark key="[" line="27" column="10" />
       </file>
@@ -364,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="27" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="110" column="57" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
-      <jump line="111" column="34" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="116" column="41" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="118" column="43" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
       <jump line="119" column="61" filename="$USER_HOME$/Code/Beesplay/learning-api/Modules/Quiz/Http/Controllers/AnalyzeController.php" />
@@ -464,6 +467,9 @@
       <jump line="3" column="23" filename="$USER_HOME$/Code/Exchange/exchange/src/router/router.js" />
       <jump line="1" column="7" filename="$USER_HOME$/Code/Exchange/exchange/src/store/modules/user.js" />
       <jump line="3" column="8" filename="$USER_HOME$/Code/Exchange/ex-portal/src/api/cms.js" />
+      <jump line="40" column="22" filename="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/KLine.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/KLine.vue" />
+      <jump line="69" column="18" filename="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/Newest.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -13,14 +13,17 @@
       <file name="$USER_HOME$/Code/jntz/jntz-admin/routes/project.php" timestamp="1520406446243">
         <mark key="[" line="29" column="94" />
       </file>
-      <file name="$USER_HOME$/Code/dsr/dsr-api/app/Http/Controllers/Game/GameController.php" timestamp="1553852546898">
-        <mark key="[" line="24" column="18" />
+      <file name="$USER_HOME$/Code/dsr/dsr-api/app/Http/Controllers/Game/GameController.php" timestamp="1553853752053">
+        <mark key="[" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/learning/learning-api/Modules/UCenter/Http/Controllers/AuthController.php" timestamp="1543980400998">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="8" />
         <mark key="." line="45" column="8" />
         <mark key="^" line="76" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1553853607148">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/KLine.vue" timestamp="1546414566214">
         <mark key="'" line="0" column="0" />
@@ -61,11 +64,6 @@
         <mark key="]" line="63" column="42" />
         <mark key="." line="63" column="42" />
         <mark key="^" line="63" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/Exchange/ex-open-api/vendor/brooksyang/laravel-api-helper/src/Controllers/Doc/DocController.php" timestamp="1543981034363">
-        <mark key="[" line="93" column="80" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Exchange/exchange/src/main.js" timestamp="1545286948339">
         <mark key="[" line="0" column="30" />
@@ -124,11 +122,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Exchange/exchange/src/router.js" timestamp="1545278039299">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/app/Traits/EntranceUserTrait.php" timestamp="1531103520832">
         <mark key="[" line="101" column="25" />
@@ -244,11 +237,6 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/Beesplay/hnnx/hnnx-api/app/Constants/Api.php" timestamp="1544522088565">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Exchange/exchange/src/App.vue" timestamp="1545285700547">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="15" />
@@ -297,11 +285,11 @@
         <mark key="." line="93" column="14" />
         <mark key="^" line="93" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/dsr/dsr-api/app/Utilities/Game.php" timestamp="1553852752703">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/Code/dsr/dsr-api/app/Utilities/Game.php" timestamp="1553853846444">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Code/yytang/app/Http/Controllers/VideoController.php" timestamp="1536122181059">
         <mark key="[" line="8" column="6" />
@@ -484,11 +472,11 @@
       <jump line="69" column="18" filename="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/Newest.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>private $</text>
       </register>
       <register name="-" type="4">
-        <text>getHistoryOrders</text>
+        <text>private $</text>
       </register>
       <register name="/" type="4">
         <text>course_id</text>
@@ -497,31 +485,31 @@
         <text encoding="base64">ICAgICAgICAkcmV0ID0gaHRtbHNwZWNpYWxjaGFycygkb3V0cHV0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpwb3N0KCcvdXNlci9yZWdpc3RlcicsICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4KICogVXNlcjogQnJvb2tzCiAqIERhdGU6IDIwMTktMDMtMjkKICogVGltZTogMTc6NDQKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBQaHBTdG9ybS4KICogVXNlcjogQnJvb2tzCiAqIERhdGU6IDIwMTktMDMtMjkKICogVGltZTogMTc6NDQKICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQ21zIHsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ21zOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgQ21zIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ21zOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQ21zIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ21zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJvdXRlci1saW5rIHRvPSIvYWJvdXQiPkFib3V0PC9yb3V0ZXItbGluaz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfAo=</text>
       </register>
       <register name=":" type="4">
         <text>24</text>

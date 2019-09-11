@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -517,7 +517,7 @@
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ21zOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -551,7 +551,6 @@
         <entry>course_id</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>15</entry>
         <entry>23</entry>
         <entry>wq</entry>
@@ -571,6 +570,7 @@
         <entry>.,.+124</entry>
         <entry>24</entry>
         <entry>w</entry>
+        <entry>2</entry>
       </history-cmd>
       <history-expr />
       <history-input />

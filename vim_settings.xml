@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Fac/fac-portal/resources/assets/js/api/Partner.js" timestamp="1531063116674">
@@ -27,6 +27,11 @@
       </file>
       <file name="$USER_HOME$/Code/Exchange/ex-portal/src/components/exchange/KLine.vue" timestamp="1546414566214">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/bitau/ex-api/app/Console/Commands/Debug.php" timestamp="1568252201613">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="16" />
+        <mark key="." line="88" column="16" />
       </file>
       <file name="$USER_HOME$/Code/jntz/jntz-app/src/screens/user/changeName.js" timestamp="1520388265755">
         <mark key="[" line="9" column="12" />
@@ -59,6 +64,7 @@
         <mark key="^" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/bitau/ex-api/app/Console/Commands/ImportQuickOrder.php" timestamp="1568252183126" />
       <file name="$USER_HOME$/Code/Beesplay/pzh/pzh-portal/app/Http/Controllers/Site/IndexController.php" timestamp="1533893235817">
         <mark key="[" line="63" column="38" />
         <mark key="]" line="63" column="42" />
@@ -296,6 +302,7 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/bitau/ex-api/.env" timestamp="1568251938966" />
       <file name="$USER_HOME$/Code/yytang/app/Http/Controllers/VideoController.php" timestamp="1536122181059">
         <mark key="[" line="8" column="6" />
       </file>

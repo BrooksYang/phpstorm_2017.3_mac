@@ -92,6 +92,13 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/bitau/ex-api/app/Http/Controllers/OTC/Merchant/StatisticsController.php" timestamp="1569070633610">
+        <mark key="e" line="24" column="42" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/Beesplay/lmsIT/lms-it-api/app/Traits/EntranceUserTrait.php" timestamp="1531103520832">
         <mark key="[" line="101" column="25" />
         <mark key="]" line="101" column="24" />
@@ -221,8 +228,7 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/bitau/ex-api/app/Jobs/OTC/TradeUpdated.php" timestamp="1568948643955" />
-      <file name="$USER_HOME$/Code/bitau/ex-api/.env" timestamp="1568948199337" />
+      <file name="$USER_HOME$/Code/bitau/ex-api/.env" timestamp="1569069801776" />
       <file name="$USER_HOME$/Code/yytang/app/Http/Controllers/VideoController.php" timestamp="1536122181059">
         <mark key="[" line="8" column="6" />
       </file>
@@ -253,6 +259,7 @@
       <file name="$USER_HOME$/Code/Beesplay/learning-api/.env" timestamp="1520473266467">
         <mark key="[" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/bitau/ex-api/app/Http/Controllers/OTC/Merchant/OrderController.php" timestamp="1569070026239" />
       <file name="$USER_HOME$/Code/Exchange/ex-open-api/app/Http/Controllers/V1/User/UserController.php" timestamp="1543980843694">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="25" column="25" />
@@ -369,11 +376,11 @@
       <jump line="349" column="26" filename="$USER_HOME$/Code/bitau/ex-api/app/Http/Controllers/OTC/Order/QuickOrderController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiAqIENyZWF0ZSBhIG5ldyBqb2IgaW5zdGFuY2UuICogKiBAcmV0dXJuIHZvaWQgKi8gcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXBwS2V5IA==</text>
       </register>
       <register name="-" type="4">
-        <text>private $</text>
+        <text encoding="base64">YXBwS2V5IA==</text>
       </register>
       <register name="/" type="4">
         <text>course_id</text>

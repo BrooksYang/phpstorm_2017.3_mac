@@ -6,6 +6,10 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">

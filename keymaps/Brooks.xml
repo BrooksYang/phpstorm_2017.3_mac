@@ -58,5 +58,8 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
